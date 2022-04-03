@@ -17,7 +17,7 @@ echo >> $nome/index.cs
 echo '  }' >> $nome/index.cs
 echo '}' >> $nome/index.cs
 
-echo package $nome';' >> $nome/index.java
+echo package $nome';' > $nome/index.java
 echo >> $nome/index.java
 echo 'import java.util.Scanner;' >> $nome/index.java
 echo >> $nome/index.java
