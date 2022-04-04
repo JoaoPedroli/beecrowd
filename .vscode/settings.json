@@ -1,3 +1,8 @@
 {
-  "workbench.colorTheme": "Bearded Theme Coffee"
+  "workbench.colorTheme": "Bearded Theme Coffee",
+  "files.associations": {
+    "*.tcc": "cpp",
+    "deque": "cpp",
+    "vector": "cpp"
+  }
 }
